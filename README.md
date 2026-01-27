@@ -4,7 +4,8 @@
 **Intern ID:** VT26DS005  
 **Domain:** Data Science
 **Company:** VAUTECH IT SOLUTIONS  
-**Mentor:** Vishal Rajbhar 
+**Mentor:** Vishal Rajbhar
+ 
 **Task:** Data Loading and Initial Exploration 
 
 ---
