@@ -30,7 +30,7 @@ The objective of this task is to load tha suicide dataset into python and perfor
 ## Step 1: Loading the Dataset
 
 import pandas as pd
-df = pd.read_csv('../suicide_data.csv')
+df = pd.read_csv('suicide_data.csv')
 [Screenshot](Images/load_data.png)
 
 ## Step 2: Preview Data
