@@ -4,8 +4,7 @@
 **Intern ID:** VT26DS005  
 **Domain:** Data Science
 **Company:** VAUTECH IT SOLUTIONS  
-**Mentor:** Vishal Rajbhar
- 
+**Mentor:** Vishal Rajbhar 
 **Task:** Data Loading and Initial Exploration 
 
 ---
@@ -17,7 +16,6 @@ The objective of this task is to load tha suicide dataset into python and perfor
 ---
 
 ## Tools Used
-
 - Python
 - Pandas
 - Jupyter Notebook / VS Code
