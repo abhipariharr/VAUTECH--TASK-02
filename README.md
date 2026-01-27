@@ -31,27 +31,33 @@ The objective of this task is to load tha suicide dataset into python and perfor
 
 import pandas as pd
 df = pd.read_csv('suicide_data.csv')
-[Screenshot](Images/load_data.png)
+
+![Screenshot](Images/load_data.png)
 
 ## Step 2: Preview Data
 df.head()
-[Screenshot](Images/preview.png)
+
+![Screenshot](Images/preview.png)
 
 ## Step 3: Checking Dataset size
 df.shape
-[Screenshot](Images/dataset.png)
+
+![Screenshot](Images/dataset.png)
 
 ## Step 4: Checking Datatype and Structure
 df.info()
-[Screenshot](Images/datatype.png)
+
+![Screenshot](Images/datatype.png)
 
 ## Step 5: Checking missing Values
 df.isnull().sum()
-[Screenshot](Images/missing_value.png)
+
+![Screenshot](Images/missing_value.png)
 
 ## Step 6: Summary Statistics
 df.describe()
-[Screenshot](Images/summary.png)
+
+![Screenshot](Images/summary.png)
 
 ---
 
