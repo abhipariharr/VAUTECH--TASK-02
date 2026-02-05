@@ -55,7 +55,14 @@ df.isnull().sum()
 
 ![Screenshot](Images/missing_value.png)
 
-## Step 6: Summary Statistics
+## Step 6: Checking Inconsistency 
+for col in df.select_dtypes('object'):
+    print(f"\nColumn: {col}")
+    print(df[col].value_counts().head(10))
+
+![Screenshot](Images/inconsistency.png)
+
+## Step 7: Summary Statistics
 df.describe()
 
 ![Screenshot](Images/summary.png)
